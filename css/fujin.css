@@ -1,0 +1,204 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 620421 */
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot');
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.svg#iconfont') format('svg');
+}
+body{
+    font-size: 0.34rem;
+    background-color: #fff;
+}
+.address_icon{
+    font-family: 'iconfont';
+}
+.head_box{
+    width: 100%;
+    height: auto;
+    background: #f9f9f9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.head{
+    width: 9.95rem;
+    height: 1.42rem;
+    margin: 0 auto;
+}
+.head p{
+    font-size: 0.4rem;
+    color: #666;
+    line-height: 1.42rem;
+    display: block;
+    float: left;
+}
+.search{
+    width: 7.57rem;
+    height: 0.87rem;
+    background: #eee;
+    border-radius: 0.1rem;
+    margin-top: 0.28rem;
+    margin-left: 0.5rem;
+    border: none;
+    float: left;
+    text-align: center;
+}
+#content{
+    position: absolute;
+    top: 1.42rem;
+    left: 0;
+    overflow-y: scroll;
+    bottom: 1.54rem;
+}
+.banner{
+    width: 10.8rem;
+    height: 2.82rem;
+    border-top: 0.02rem solid #eee;
+}
+.banner{
+    width: 10.8rem;
+    height: 2.82rem;
+}
+.nav{
+    width: 10.8rem;
+    height: 1.29rem;
+    margin: 0 auto;
+}
+.nav p{
+    font-size: 0.44rem;
+    display: block;
+    padding: 0 0.7rem;
+    line-height: 1.23rem;
+    float: left;
+    color: #666;
+}
+.select{
+    border-bottom: 0.06rem solid #fe566d;
+    color: #fe566d;
+}
+.menu{
+    width: 10.8rem;
+    height: 2.64rem;
+    margin: 0 auto;
+    border-top: 0.03rem solid #eee;
+    border-bottom: 0.03rem solid #eee;
+    background: #f1f1f4;
+}
+.list{
+    width: 2.31rem;
+    height: 0.84rem;
+    border-radius: 0.81rem;
+    border: 0.03rem solid #e1e1e1;
+    margin-left: 0.3rem;
+    margin-top: 0.36rem;
+    float: left;
+    text-align: center;
+    line-height: 0.84rem;
+    background: #fff;
+    color: #666;
+}
+.menu .select{
+    background: #fe566d;
+    border: 0.03rem solid #fe566d;
+    color: #fff;
+}
+.example{
+    width: 10.8rem;
+    height: 4.24rem;
+    margin: 0 auto;
+    margin-top: 0.4rem;
+    border-bottom: 0.03rem solid #eee;
+}
+.example img{
+    width: 3.31rem;
+    height: 2.90rem;
+    margin-left: 0.36rem;
+    float: left;
+}
+.detail{
+    width: 6.5rem;
+    height: 4.24rem;
+    float: left;
+    margin-left: 0.3rem;
+}
+.detail h3{
+    font-size: 0.5rem;
+    color: #000;
+}
+.detail .level{
+    color: #fa952f;
+}
+.detail p,.detail .address{
+    font-size: 0.44rem;
+    color: #666;
+}
+.distance{
+    width: 1.2rem;
+    height: 0.6rem;
+    background: #f1f1f1;
+    border: 0.03rem solid #666;
+    border-radius: 0.05rem;
+    float: right;
+    color: #666;
+    font-size: 0.44rem;
+}
+.renshu{
+    width: 1.553rem;
+    height: 0.45rem;
+    background: #fff;
+    border: 0.03rem solid #eee;
+    border-radius: 0.1rem;
+    margin-top: 0.5rem;
+    color: #666;
+}
+.quan{
+    color: #666;
+    line-height: 0.8rem;
+    border-top: 0.03rem solid #eee;
+    margin-top: 0.5rem;
+}
+.fenge{
+    width: 10.8rem;
+    height: 0.3rem;
+    background: #f4f4f4;
+    margin: 0 auto;
+}
+.bottom{
+    width: 100%;
+    height: 1.54rem;
+    position: fixed;
+    left:0;
+    bottom:0;
+    border-top: 0.02rem solid #eee;
+}
+.bottom_content{
+    width: 10.05rem;
+    height: 1.4rem;
+    margin: 0 auto;
+    margin-top: 0.1rem;
+}
+.bottom_content_item{
+    width: 0.8rem;
+    height: 1.48rem;
+    margin: 0 0.58rem;
+    float: left;
+    text-align: center;
+    line-height: 0.5rem;
+}
+.bottom_content_item span{
+    line-height: 0.3rem;
+    text-align: center;
+    margin-top: 0.1rem;
+    font-size: 0.5rem;
+    color: #666;
+}
+.bottom_content_item p{
+    font-size: 0.34rem;
+    line-height: 1rem;
+    color: #666;
+}
+.bottom_content_item .catalogue{
+    color: #06c1ae;
+}

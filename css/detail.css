@@ -1,0 +1,163 @@
+.head{
+    width: 10.8rem;
+    height: 1.3rem;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    line-height: 1.3rem;
+    padding-left: 0.5rem;
+    font-size: 0.44rem;
+}
+.head p{
+    display: block;
+    float: left;
+    color: #000;
+}
+.head_imgbox{
+    width: 3.8rem;
+    height: 0.9rem;
+    float: right;
+    margin-top: 0.4rem;
+}
+.head_imgbox img{
+    width: 0.7rem;
+    height: 0.7rem;
+    margin-right: 0.5rem;
+    float: left;
+}
+#content{
+    position: absolute;
+    top: 1.4rem;
+    left: 0;
+    overflow-y: scroll;
+    bottom: 1.54rem;
+}
+.top{
+    width: 9.9rem;
+    height: 2.1rem;
+    margin: 0 auto;
+}
+.top_topic{
+    width: 7rem;
+    height: 2.1rem;
+    padding-left: 0.5rem;
+    float: left;
+}
+.top_topic h1{
+    font-size: 0.5rem;
+    line-height: 1.4rem;
+}
+.top_topic p{
+    font-size: 0.34rem;
+    color: #666;
+}
+.top_topic .level{
+    color: #ff9900;
+
+}
+.top_img{
+    width: 2.8rem;
+    height: 2.1rem;
+    float: right;
+    margin-top: 0.3rem;
+}
+.top_img img{
+    width: 2.8rem;
+    height: 2.1rem;
+}
+.bottom{
+    width: 10.8rem;
+    height: 3rem;
+}
+.bottom p{
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 1rem;
+    margin-left: 0.5rem;
+}
+.bottom img{
+    width: 0.52rem;
+    height: 0.52rem;
+    margin-top: 0.2rem;
+    /*padding-left: 0.5rem;*/
+    float: left;
+}
+.quan{
+    width: 10.8rem;
+    height: 5rem;
+    margin:0 auto;
+}
+.quan h1{
+    font-size: 0.5rem;
+    color: #000;
+    padding-left: 0.5rem;
+}
+.quan_img{
+    width: 10.8rem;
+    height: 2.69rem;
+}
+.quan_img img{
+    width: 9.96rem;
+    height: 2.96rem;
+    margin: 0 auto;
+}
+.quan p{
+    font-size: 0.36rem;
+    color: #06c1ae;
+    text-align:center;
+    line-height: 1.6rem;
+}
+.menu{
+    width: 10.8rem;
+    height: auto;
+    margin-top: 0.5rem;
+}
+.menu h1{
+    font-size: 0.5rem;
+    color: #000;
+    padding-left: 0.5rem;
+}
+.menu_box{
+    width: 10.8rem;
+    height: 2.88rem;
+    margin-top: 0.4rem;
+}
+.menu_img{
+    width: 2.4rem;
+    height: 2.4rem;
+    padding-left: 0.5rem;
+    float: left;
+}
+.menu_img img{
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-top: 0.2rem;
+}
+.introduce{
+    width: 7.68rem;
+    height: 2.88rem;
+    float: right;
+    border-bottom: 0.01rem solid #eee;
+}
+.introduce h1{
+    font-size: 0.48rem;
+    color: #000;
+    line-height: 0.8rem;
+}
+.introduce p{
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 0.8rem;
+}
+.introduce .price{
+    font-size: 0.5rem;
+    color: #ff9900;
+    line-height: 0.6rem;
+}
+.price .quality{
+    float: right;
+    color: #666;
+    padding-right: 0.5rem;
+}

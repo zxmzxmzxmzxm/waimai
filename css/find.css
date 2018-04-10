@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 620421 */
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot');
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.svg#iconfont') format('svg');
+}
+body{
+    font-size: 0.12rem;
+    background-color: #fff;
+}
+.address_icon{
+    font-family: 'iconfont';
+}
+.head_box{
+    width: 10.8rem;
+    height: 2.77rem;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    border-bottom: 0.03rem solid #eee;
+}
+.topic{
+    background: #f9f9f9;
+    color: #666;
+    font-size: 0.5rem;
+    font-weight: 400;
+    padding-left: 0.5rem;
+    border-bottom: 0.03rem solid #eee;
+    line-height: 1.40rem;
+}
+.nav{
+    width: 20rem;
+    height: 1.33rem;
+    margin: 0 auto;
+    display: flex;
+    overflow-x: scroll;
+}
+.nav p{
+    margin: 0 0.6rem;
+    line-height: 1.33rem;
+    float: left;
+}
+.nav .select{
+    border-bottom: 0.06rem solid #25d2c0;
+}
+#content{
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    overflow-y: scroll;
+    bottom: 1.54rem;
+}
+.content_item{
+    width: 10.8rem;
+    height: 5.2rem;
+    border-bottom: 0.02rem solid #eee;
+}
+.content_item p{
+    font-size: 0.5rem;
+    color: #000;
+    padding: 0 0.35rem;
+}
+.content_item_img{
+    width: 10.4rem;
+    height: 2.45rem;
+    padding: 0.3rem 0.2rem;
+    margin: 0 auto;
+}
+.content_item_img img{
+    width: 3.26rem;
+    height: 2.46rem;
+    margin-right: .1rem;
+    float: left;
+}
+.content_item_img .select{
+    margin-right: 0;
+}
+.content_item .liulan{
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 1rem;
+}
+.bottom{
+    width: 100%;
+    height: 1.54rem;
+    position: fixed;
+    left:0;
+    bottom:0;
+    border-top: 0.02rem solid #eee;
+}
+.bottom_content{
+    width: 10.05rem;
+    height: 1.4rem;
+    margin: 0 auto;
+    margin-top: 0.1rem;
+}
+.bottom_content_item{
+    width: 0.8rem;
+    height: 1.48rem;
+    margin: 0 0.58rem;
+    float: left;
+    text-align: center;
+    line-height: 0.5rem;
+}
+.bottom_content_item span{
+    line-height: 0.3rem;
+    text-align: center;
+    margin-top: 0.1rem;
+    font-size: 0.5rem;
+    color: #666;
+}
+.bottom_content_item p{
+    font-size: 0.34rem;
+    line-height: 1rem;
+    color: #666;
+}
+.bottom_content_item .catalogue{
+    color: #06c1ae;
+}

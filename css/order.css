@@ -1,0 +1,214 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 620421 */
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot');
+    src: url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_620421_4p3lbied8lnv1jor.svg#iconfont') format('svg');
+}
+body{
+    font-size: 0.12rem;
+    background-color: #fff;
+}
+.address_icon{
+    font-family: 'iconfont';
+}
+.head_box{
+    width: 10.8rem;
+    height: 1.6rem;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.topic{
+    background: #f9f9f9;
+    color: #666;
+    font-size: 0.5rem;
+    font-weight: 400;
+    padding-left: 0.5rem;
+    border-bottom: 0.03rem solid #eee;
+    line-height: 1.40rem;
+}
+.nav{
+    width: 10.8rem;
+    height: 1.33rem;
+    margin: 0 auto;
+    border-bottom: 0.03rem solid #eee;
+}
+.nav p{
+    margin: 0 0.6rem;
+    line-height: 1.33rem;
+    float: left;
+    font-size: 0.44rem;
+}
+.nav span{
+    float: right;
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 1.33rem;
+    padding-right: 0.5rem;
+}
+#content{
+    position: absolute;
+    top: 1.6rem;
+    left: 0;
+    overflow-y: scroll;
+    bottom: 1.54rem;
+}
+.order{
+    width: 10.8rem;
+    height: 1.9rem;
+    margin: 0 auto;
+    margin-top: 0.38rem;
+}
+.order_item{
+    width: 1.8rem;
+    height: 1.86rem;
+    float: left;
+    margin: 0 0.4rem;
+}
+.order_item img{
+    width: 0.88rem;
+    height: 0.76rem;
+    margin: 0 auto;
+}
+.order_item p{
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.4rem;
+    color: #666;
+}
+.closest{
+    width: 10.8rem;
+    height: 0.78rem;
+    margin: 0 auto;
+    background: #f1f1f1;
+    padding-left: 0.3rem;
+    line-height: 0.78rem;
+    font-size: 0.44rem;
+    color: #666;
+}
+.detail{
+    width: 10.8rem;
+    height: 3.22rem;
+    margin-top: 0.5rem;
+    border-bottom: 0.01rem solid #eee;
+}
+.detail img{
+    width: 1.16rem;
+    height: 1.15rem;
+    padding-left: 0.3rem;
+    float: left;
+}
+.detail_content{
+    width: 9.03rem;
+    height: 2.96rem;
+    padding-left: 0.3rem;
+    float: left;
+}
+.detail_content h1{
+    font-size: 0.5rem;
+    color: #000;
+    float: left;
+}
+.detail_content .success{
+    font-size: 0.44rem;
+    color: #06c1ae;
+    float: right;
+    margin-left: 3rem;
+    padding-right: 0.3rem;
+}
+.detail_content .success1{
+    margin-left: 4rem;
+}
+.detail_content p{
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 0.8rem;
+}
+.progress {
+    font-size: 0.44rem;
+    color: #666;
+    line-height: 0.8rem;
+}
+.detail_content .tuikuan{
+    width: 1.92rem;
+    height: 0.78rem;
+    border: 0.02rem solid #ffa011;
+    border-radius: 0.05rem;
+    float: right;
+    color: #ffa011;
+}
+.more{
+    width: 10.8rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
+    text-align: center;
+    color: #06c1ae;
+    font-size: 0.5rem;
+}
+.fenge{
+    width: 10.8rem;
+    height: 0.3rem;
+    background: #f1f1f1;
+}
+.nav1{
+    height: 5rem;
+    text-align: center;
+}
+.imgbox{
+    width: 8rem;
+    height: 5rem;
+    margin: 0 auto;
+    padding-top: 2rem;
+    text-align: center;
+}
+.imgbox img{
+    width: 1.1rem;
+    height: 1.1rem;
+    margin: 0 auto;
+}
+.imgbox p{
+    font-size: 0.4rem;
+    color: #666;
+    line-height: 0.8rem;
+}
+.bottom{
+    width: 100%;
+    height: 1.54rem;
+    position: fixed;
+    left:0;
+    bottom:0;
+    border-top: 0.02rem solid #eee;
+}
+.bottom_content{
+    width: 10.05rem;
+    height: 1.4rem;
+    margin: 0 auto;
+    margin-top: 0.1rem;
+}
+.bottom_content_item{
+    width: 0.8rem;
+    height: 1.48rem;
+    margin: 0 0.58rem;
+    float: left;
+    text-align: center;
+    line-height: 0.5rem;
+}
+.bottom_content_item span{
+    line-height: 0.3rem;
+    text-align: center;
+    margin-top: 0.1rem;
+    font-size: 0.5rem;
+    color: #666;
+}
+.bottom_content_item p{
+    font-size: 0.34rem;
+    line-height: 1rem;
+    color: #666;
+}
+.bottom_content_item .catalogue{
+    color: #06c1ae;
+}
